@@ -1,0 +1,14 @@
+/.clang-format
+/.devcontainer/
+/.gitattributes
+/.github/
+/.mbedignore
+/.prettierignore
+/.vscode/
+/appveyor.yml
+/examples/
+/extras/
+/idf_component.yml
+/keywords.txt
+/library.*
+/*.tgz
